@@ -4,6 +4,7 @@
   <artifactId>testFramework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
+  <defaultGoal>validate</defaultGoal>
     <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>
